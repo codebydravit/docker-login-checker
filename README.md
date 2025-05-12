@@ -35,7 +35,9 @@ docker-compose up --build
 
 ## 🖼️ Output
 
-![Output Screenshot](assets/output.png)
+![Docker Containers](assets/docker-containers.png)
+![Login Success](assets/login-success.png)
+![Invalid Login](assets/invalid-login.png)
 
 ## 🛠 Tech Stack
 
